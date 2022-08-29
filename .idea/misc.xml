@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Maiki/Documents/Android/UPTxapp/app/src/main/res/layout/activity_1.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/Maiki/Documents/Android/UPTxapp/app/src/main/res/layout/activity_3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Maiki/Documents/Android/UPTxapp/app/src/main/res/layout/activity_baja_definitiva.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Maiki/Documents/Android/UPTxapp/app/src/main/res/layout/activity_baja_materia.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Maiki/Documents/Android/UPTxapp/app/src/main/res/layout/activity_desarrolladores.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Maiki/Documents/Android/UPTxapp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Maiki/Documents/Android/UPTxapp/app/src/main/res/layout/activity_pago_de_inscripcion.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Maiki/Documents/Android/UPTxapp/app/src/main/res/layout/activity_recursamiento.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Maiki/Documents/Android/UPTxapp/app/src/main/res/layout/activity_solicitud_de_baja_tem.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Maiki/Documents/Android/UPTxapp/app/src/main/res/layout/activity_solicitudderecuperacionfinal.xml" value="0.1935185185185185" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
